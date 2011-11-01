@@ -1,0 +1,5 @@
+This is a little script that I was playing around with to basically add
+AcitveRecord-like callbacks to arbitrary Ruby classes. I don't think it's
+functional.
+
+This is hereby released under the MIT License.
